@@ -32,14 +32,6 @@ Se trocarmos de branch, o `HEAD` sairá do `master` e irá para o branch de noss
 
 ![Movendo branches](https://git-scm.com/figures/18333fig0307-tn.png)
 
-Para trocarmos de branch utilizamos:
-
-```sh
-git checkout <nome do branch>
-```
-
-Ou então podemos utilizar a flag `-b` para criar um branch que ainda não existe e entrar nele.
-
 Assim podemos voltar para o estado do nosso programa no momento que paramos o branch `master`:
 
 ![Revertendo](https://git-scm.com/figures/18333fig0308-tn.png)

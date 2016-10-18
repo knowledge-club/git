@@ -1,6 +1,6 @@
 # init
 
-To start to track an project with git, on your console, go to the projects directory ant type
+To start to track a project with git, on your console, go to the projects directory ant type
 
 ```bash
 $ git init

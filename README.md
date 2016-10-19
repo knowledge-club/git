@@ -10,3 +10,4 @@ Below you can find articles to learn how to use Git to versioning your projects.
 - add [en](content/en/add.md) | [pt-br](content/pt-br/add.md)
 - checkout [en](content/en/checkout.md) | [pt-br](content/pt-br/checkout.md)
 - commit [en](content/en/commit.md) | [pt-br](content/pt-br/commit.md)
+- log [en](content/en/log.md) | [pt-br](content/pt-br/log.md)

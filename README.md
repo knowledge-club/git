@@ -6,8 +6,9 @@
 
 Below you can find articles to learn how to use Git to versioning your projects. All git commands need to be typed in your computer Console. If you aren't familiar with console, check [our aticles about Bash](https://github.com/knowledge-club/bash), the language that is used inside the Console
 
+Check out the Introduction article ([english](content/en/intro.md) or [portuguese](content/pt-br/intro.md)) to know a bit more about git before going on to the commands.
+
 - init [en](content/en/init.md) | [pt-br](content/pt-br/init.md)
-- intro [en](content/en/intro.md) | [pt-br](content/pt-br/intro.md)
 - add [en](content/en/add.md) | [pt-br](content/pt-br/add.md)
 - commit [en](content/en/commit.md) | [pt-br](content/pt-br/commit.md)
 - checkout [en](content/en/checkout.md) | [pt-br](content/pt-br/checkout.md)

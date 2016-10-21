@@ -1,36 +1,39 @@
 # log
 
-This command show all [commit] (commit.md) of your current branch
+This command shows all [commits](commit.md) of your current branch
 
-`` `Bash
-$ Git log
-`` `
+```bash
+$ git log
+```
 
 Will be displayed the hash of commit, author name, date and commit message
 example:
 
-`` `
+```
 commit 5a540fdeaae05eca922a86171b94d11a33abf6de
+
 Author: User <user@email.com>
+
 Date: Tue Oct 18 18:11:14 2016 -0200
                                                                                                       
     commit Message
-`` `
+```
 
 ## Showing log of another branch
 
-`` `Bash
-$ Git log <branch>
-`` `
+```bash
+$ git log <branch>
+```
 
 Where `` <branch> `` is a branch name
 
 
-## Showing of log file
-To list all changes of one file is very similar to list log of branch.
+## Showing log of file
 
-`` `Bash
-$ Git log <file>
-`` `
+Listing all changes in one file is very similar to listing the log of a branch.
 
-Where `` `<file>` `is a file name
+```bash
+$ git log <file>
+```
+
+Where ```<file>``` is a file name

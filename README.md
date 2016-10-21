@@ -11,6 +11,7 @@ Check out the Introduction article ([english](content/en/intro.md) or [portugues
 - init [en](content/en/init.md) | [pt-br](content/pt-br/init.md)
 - add [en](content/en/add.md) | [pt-br](content/pt-br/add.md)
 - commit [en](content/en/commit.md) | [pt-br](content/pt-br/commit.md)
+- log [en](content/en/log.md) | [pt-br](content/pt-br/log.md)
 - checkout [en](content/en/checkout.md) | [pt-br](content/pt-br/checkout.md)
 - branch [en](content/en/branch.md) | [pt-br](content/pt-br/branch.md)
 - merge [en](content/en/merge.md) | [pt-br](content/pt-br/merge.md)

@@ -1,6 +1,6 @@
 # log
 
-This command shows all [commits](commit.md) of your current branch
+-This command show all [commit] (commit.md) of your current branch
 
 ```bash
 $ git log
@@ -30,7 +30,7 @@ Where `` <branch> `` is a branch name
 
 ## Showing log of file
 
-Listing all changes in one file is very similar to listing the log of a branch.
+-To list all changes of one file is very similar to list log of branch.
 
 ```bash
 $ git log <file>
